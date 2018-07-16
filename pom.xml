@@ -357,7 +357,7 @@
             <version>4.5.3</version>
         </dependency>
         <!-- Social -->
-        <dependency>
+ <!--        <dependency>
             <groupId>org.apache.httpcomponents</groupId>
             <artifactId>httpclient</artifactId>
         </dependency>
@@ -377,7 +377,7 @@
             <groupId>org.springframework.social</groupId>
             <artifactId>spring-social-twitter</artifactId>
         </dependency>
-
+ -->
         <!-- jhipster-needle-maven-add-dependency -->
     </dependencies>
 
